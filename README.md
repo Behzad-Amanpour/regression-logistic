@@ -1,4 +1,4 @@
-# Logistic Regression ( sklearn & statsmodels in Python)
+# Logistic Regression (sklearn in Python)
 Please visit my **.pdf files** for some theoretical explanations
 
 In **code.py** you will see:
