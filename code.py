@@ -2,8 +2,6 @@
 Inputs:
     X: n*m  numerical matrix which "n" is the number of samples, and "m" is the number of features
     y: n*1  array which has the labels of rows in X
-
-for 'Regression with Statsmodels' go down to the end of page
 """
 
 # Logistic Regression ========================== Behzad Amanpour ===================
