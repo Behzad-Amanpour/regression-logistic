@@ -87,7 +87,7 @@ gs.fit(X, y)
 print(gs.best_params_)
 print(gs.best_score_)
 
-# Finally ======================================= Behzad Amanpour =====================
+# Summary ======================================= Behzad Amanpour =====================
 from sklearn.linear_model import LogisticRegression
 import numpy as np
 from sklearn.model_selection import cross_val_score
