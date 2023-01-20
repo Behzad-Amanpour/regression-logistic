@@ -9,6 +9,6 @@ In **code.py** you will see:
 
 - How to standardize and/or normalize the features before fitting the model
 
-- How to create use new features with "Polynomial Features" algorithm
+- How to create new features with "Polynomial Features" algorithm
 
 - How to optimize the parameters of the model
