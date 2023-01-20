@@ -3,7 +3,7 @@ Please visit my **.pdf files** for some theoretical explanations
 
 In **code.py** you will see:
 
-- Simple implementation of **logistic regression from "scikit-learn"** in Python
+- Simple implementation of **Logistic Regression from "scikit-learn"** in Python
 
 - **"Cross-Validation"** of the model
 
