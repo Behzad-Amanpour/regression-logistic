@@ -3,11 +3,11 @@ Please visit my **.pdf files** for some theoretical explanations
 
 In **code.py** you will see:
 
-- Simple implementation of **Logistic Regression from "scikit-learn"** in Python
+- Implementation of **Logistic Regression from "scikit-learn"** in Python
 
 - **Cross-Validation** of the model
 
-- **Standardization** and/or **Normalization** of the features before fitting the model
+- **Standardization** and **Normalization** of the features before fitting the model
 
 - Creating new features with **Polynomial Features** algorithm
 
